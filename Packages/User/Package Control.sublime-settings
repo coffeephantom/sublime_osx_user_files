@@ -1,0 +1,15 @@
+{
+	"debug": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Codecs33",
+		"CTags",
+		"Package Control",
+		"PackageResourceViewer",
+		"Theme - Brogrammer"
+	]
+}

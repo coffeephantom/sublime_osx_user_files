@@ -1,0 +1,23 @@
+{
+	"always_show_minimap_viewport": true,
+	"author": "coffeephantom",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"date_format": "%Y-%m-%d %H:%M:%S",
+	"detect_slow_plugins": false,
+	"enable_tab_scrolling": false,
+	"font_face": "Monaco",
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 4,
+	"theme": "Brogrammer.sublime-theme",
+	"translate_tabs_to spaces": true,
+	"vintage_ctrl_keys": true,
+	"word_wrap": "auto",
+	"wrap_width": 80,
+	"line_padding_top":1,
+	"line_padding_bottom":1
+
+}
