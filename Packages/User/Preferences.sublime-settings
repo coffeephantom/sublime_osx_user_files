@@ -1,23 +1,23 @@
 {
 	"always_show_minimap_viewport": true,
 	"author": "coffeephantom",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/Monokai(cursor).tmTheme",
 	"date_format": "%Y-%m-%d %H:%M:%S",
 	"detect_slow_plugins": false,
 	"enable_tab_scrolling": false,
-	"font_face": "Monaco",
+	"font_face": "Menlo",
 	"font_size": 13.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"tab_size": 4,
-	"theme": "Brogrammer.sublime-theme",
+	"theme": "Cola.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_ctrl_keys": true,
-	"word_wrap": "auto",
-	"wrap_width": 80,
-	"line_padding_top":1,
-	"line_padding_bottom":1
-
+	"word_wrap": true,
+	"wrap_width": 79, 
+	"open_files_in_new_window": false
 }

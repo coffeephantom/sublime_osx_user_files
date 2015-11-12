@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"debug": true,
 	"in_process_packages":
 	[
@@ -6,10 +7,17 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"Block Cursor Everywhere",
+		"BracketHighlighter",
 		"Codecs33",
 		"CTags",
+		"Darkula Color Scheme",
+		"Dracula Color Scheme",
 		"Package Control",
 		"PackageResourceViewer",
-		"Theme - Brogrammer"
+		"Pretty JSON",
+		"Theme - Brogrammer",
+		"Theme - Cola",
+		"Theme - Soda"
 	]
 }

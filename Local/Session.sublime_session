@@ -1,38 +1,281 @@
 {
 	"folder_history":
 	[
+		"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214",
+		"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/XML_for_All_Occasions",
+		"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/Painting_a_Pretty_Picture",
+		"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs370",
+		"/Users/coffeephantom/Documents/DevL/Python/Python_Challenge",
+		"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/mysite",
+		"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator",
+		"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator/calculator",
+		"/Users/coffeephantom/Documents/DevL/Python/flask_example",
+		"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29",
+		"/Users/coffeephantom/Documents/DevL/TestPlay/mysite",
 		"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc"
 	],
 	"last_version": 3083,
-	"last_window_id": 2,
+	"last_window_id": 27,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 685.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"ti",
+						"tickets"
+					],
+					[
+						"mul",
+						"multiprocessing	module"
+					],
+					[
+						"m",
+						"multiprocessing	module"
+					],
+					[
+						"de",
+						"deco_thread	statement"
+					],
+					[
+						"a",
+						"acquire"
+					],
+					[
+						"g",
+						"global_var_num"
+					],
+					[
+						"ch",
+						"check_thread	statement"
+					],
+					[
+						"no",
+						"notify"
+					],
+					[
+						"if",
+						"if	If Condition"
+					],
+					[
+						"_",
+						"__doc__	instance"
+					],
+					[
+						"s",
+						"self	param"
+					],
+					[
+						"_i",
+						"__init__"
+					],
+					[
+						"ro",
+						"room_deco	statement"
+					],
+					[
+						"R",
+						"Room_Decoration	class"
+					],
+					[
+						"con",
+						"condition"
+					],
+					[
+						"c",
+						"condition"
+					],
+					[
+						"rep",
+						"reportlab"
+					],
+					[
+						"H",
+						"Http404	import"
+					],
+					[
+						"ra",
+						"raise	keyword"
+					],
+					[
+						"u",
+						"url	function"
+					],
+					[
+						"re",
+						"result	statement"
+					],
+					[
+						"sum",
+						"sum_num	function"
+					],
+					[
+						"Ht",
+						"HttpResponse	class"
+					],
+					[
+						"d",
+						"datetime	module"
+					],
+					[
+						"da",
+						"datetime	class"
+					],
+					[
+						"o",
+						"offset	param"
+					],
+					[
+						"for",
+						"form"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"lo",
+						"login"
+					],
+					[
+						"F",
+						"Flask	class"
+					],
+					[
+						"reu",
+						"return	keyword"
+					],
+					[
+						"r",
+						"redirect	function"
+					],
+					[
+						"p",
+						"pdb	statement"
+					],
+					[
+						"fil",
+						"filename	statement"
+					],
+					[
+						"up",
+						"UPLOAD_FOLDER"
+					],
+					[
+						"f",
+						"filename"
+					],
+					[
+						"al",
+						"allowed_files	function"
+					],
+					[
+						"fi",
+						"filename	param"
+					],
+					[
+						"on",
+						"onclick	Attr"
+					],
+					[
+						"b",
+						"button	Tag"
+					],
+					[
+						"se",
+						"secure_filename"
+					],
+					[
+						"Lo",
+						"logged_in"
+					],
+					[
+						"log",
+						"logged_in"
+					],
+					[
+						"fo",
+						"form"
+					],
+					[
+						"me",
+						"methods"
+					]
 				]
 			},
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 359.0,
-				"last_filter": "pci",
+				"height": 375.0,
+				"last_filter": "paci",
 				"selected_items":
 				[
 					[
+						"paci",
+						"Package Control: Install Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
 						"pci",
 						"Package Control: Install Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"us",
+						"Preferences: Settings - User"
+					],
+					[
+						"pckage",
+						"Package Control: List Packages"
+					],
+					[
+						"package li",
+						"Package Control: List Packages"
+					],
+					[
+						"pcr",
+						"PackageResourceViewer: Open Resource"
 					]
 				],
-				"width": 449.0
+				"width": 435.0
 			},
 			"console":
 			{
@@ -53,13 +296,90 @@
 			},
 			"file_history":
 			[
+				"/Applications/Sublime Text.app/Contents/MacOS/Packages/Color Scheme - Default.sublime-package",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/decorator_assignment.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/thread_cv_exapmle.py",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
-				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings"
+				"/Users/coffeephantom/Library/Rime/default.custom.yaml",
+				"/Users/coffeephantom/Library/Rime/.git/MERGE_MSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/fileio.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/closure_exmple.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/.gitignore",
+				"/Users/coffeephantom/.ShadowsocksX/gfwlist.js",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/XML_for_All_Occasions/demo.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/XML_for_All_Occasions/pagemaker.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/Painting_a_Pretty_Picture/test.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/Painting_a_Pretty_Picture/sunspots_roto.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/Painting_a_Pretty_Picture/hello.pdf",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs370/ascii.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs370/output.txt",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs370/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs370/.gitignore",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/mysite/manage.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Python_Challenge/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs409/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs408/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs408/.gitignore",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/mysite/mysite/views.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator/calculator/views.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator/calculator/urls.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator/calculator/settings.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator/templates/calculator.html",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/mysite/mysite/settings.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/mysite/mysite/urls.py",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/flaskr.py",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/templates/layout.html",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/templates/login.html",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/templates/show_entries.html",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/.gitignore",
+				"/Users/coffeephantom/.git-credentials",
+				"/Users/coffeephantom/.gitconfig",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/upload_pic.py",
+				"/usr/local/lib/python2.7/site-packages/flask/helpers.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/templates/upload_pic.html",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/templates/show_pic.html",
+				"/usr/local/lib/python2.7/site-packages/werkzeug/utils.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/templates/hello_shiyanlou.html",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/hello_shiyanlou.py",
+				"/Users/coffeephantom/Documents/Tools/netcheck.sh",
+				"/usr/local/lib/python2.7/site-packages/flask/wrappers.py",
+				"/usr/local/lib/python2.7/site-packages/werkzeug/local.py",
+				"/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py",
+				"/usr/local/lib/python2.7/site-packages/flask/app.py",
+				"/usr/local/lib/python2.7/site-packages/flask/__init__.py",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/.gitignore",
+				"/Users/coffeephantom/Documents/Netease/iOS_eplay_new_ui/iOS_eplay/EPlay.bundle/en.lproj/Localizable.strings",
+				"/Users/coffeephantom/Documents/Netease/iOS_eplay_new_ui/iOS_eplay/EPlay.bundle/iOS_eplay/EPlay.bundle/en.lproj/Localizable.strings",
+				"/Users/coffeephantom/Documents/DevL/TestPlay/mysite/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/TestPlay/mysite/.gitignore",
+				"/Users/coffeephantom/Documents/DevL/TestPlay/mysite/mysite/settings.py",
+				"/Users/coffeephantom/Documents/DevL/TestPlay/mysite/polls/models.py",
+				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/servers/robot/robotactioninstance.cpp",
+				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/include/logprotocol.h",
+				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/gamecommon/db/dbnetworkmanager.cpp",
+				"/Users/coffeephantom/Documents/Git/SublimeUserSettings/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/.zshrc",
+				"/Users/coffeephantom/.bashrc",
+				"/Users/coffeephantom/.bash_profile",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/Theme - Brogrammer/README.md",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
@@ -73,6 +393,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"self.name",
+					"condition.acquire()",
+					"global_var_num",
+					"threading.Thread.get_name(self)",
+					"get_name",
+					"39",
+					"request",
+					"extra_path"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -89,13 +417,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 38.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 126.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -103,7 +435,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -112,6 +444,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"ro",
+						"servers/robot/robotactioninstance.cpp"
+					]
 				],
 				"width": 0.0
 			},
@@ -143,7 +479,7 @@
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 1280.0
 	},
 	"windows":
 	[
@@ -152,6 +488,186 @@
 			{
 				"selected_items":
 				[
+					[
+						"ti",
+						"tickets"
+					],
+					[
+						"mul",
+						"multiprocessing	module"
+					],
+					[
+						"m",
+						"multiprocessing	module"
+					],
+					[
+						"de",
+						"deco_thread	statement"
+					],
+					[
+						"a",
+						"acquire"
+					],
+					[
+						"g",
+						"global_var_num"
+					],
+					[
+						"ch",
+						"check_thread	statement"
+					],
+					[
+						"no",
+						"notify"
+					],
+					[
+						"if",
+						"if	If Condition"
+					],
+					[
+						"_",
+						"__doc__	instance"
+					],
+					[
+						"s",
+						"self	param"
+					],
+					[
+						"_i",
+						"__init__"
+					],
+					[
+						"ro",
+						"room_deco	statement"
+					],
+					[
+						"R",
+						"Room_Decoration	class"
+					],
+					[
+						"con",
+						"condition"
+					],
+					[
+						"c",
+						"condition"
+					],
+					[
+						"rep",
+						"reportlab"
+					],
+					[
+						"H",
+						"Http404	import"
+					],
+					[
+						"ra",
+						"raise	keyword"
+					],
+					[
+						"u",
+						"url	function"
+					],
+					[
+						"re",
+						"result	statement"
+					],
+					[
+						"sum",
+						"sum_num	function"
+					],
+					[
+						"Ht",
+						"HttpResponse	class"
+					],
+					[
+						"d",
+						"datetime	module"
+					],
+					[
+						"da",
+						"datetime	class"
+					],
+					[
+						"o",
+						"offset	param"
+					],
+					[
+						"for",
+						"form"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"lo",
+						"login"
+					],
+					[
+						"F",
+						"Flask	class"
+					],
+					[
+						"reu",
+						"return	keyword"
+					],
+					[
+						"r",
+						"redirect	function"
+					],
+					[
+						"p",
+						"pdb	statement"
+					],
+					[
+						"fil",
+						"filename	statement"
+					],
+					[
+						"up",
+						"UPLOAD_FOLDER"
+					],
+					[
+						"f",
+						"filename"
+					],
+					[
+						"al",
+						"allowed_files	function"
+					],
+					[
+						"fi",
+						"filename	param"
+					],
+					[
+						"on",
+						"onclick	Attr"
+					],
+					[
+						"b",
+						"button	Tag"
+					],
+					[
+						"se",
+						"secure_filename"
+					],
+					[
+						"Lo",
+						"logged_in"
+					],
+					[
+						"log",
+						"logged_in"
+					],
+					[
+						"fo",
+						"form"
+					],
+					[
+						"me",
+						"methods"
+					]
 				]
 			},
 			"buffers":
@@ -160,40 +676,72 @@
 			"build_system": "",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "pckage",
+				"height": 169.0,
+				"last_filter": "user",
 				"selected_items":
 				[
 					[
-						"pckage",
-						"Package Control: Remove Package"
+						"user",
+						"Preferences: Settings - User"
 					],
 					[
-						"package li",
-						"Package Control: List Packages"
+						":w",
+						":w - Save"
 					],
 					[
-						"pi",
+						"paci",
 						"Package Control: Install Package"
-					],
-					[
-						"pcr",
-						"PackageResourceViewer: Open Resource"
 					],
 					[
 						"pci",
 						"Package Control: Install Package"
 					],
 					[
-						"user",
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"us",
 						"Preferences: Settings - User"
+					],
+					[
+						"pckage",
+						"Package Control: List Packages"
+					],
+					[
+						"package li",
+						"Package Control: List Packages"
+					],
+					[
+						"pcr",
+						"PackageResourceViewer: Open Resource"
 					]
 				],
-				"width": 457.0
+				"width": 507.0
 			},
 			"console":
 			{
@@ -214,17 +762,86 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/servers",
-				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/servers/robot",
-				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/sotest"
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214"
 			],
 			"file_history":
 			[
 				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/servers/robot/robotactioninstance.cpp",
-				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/multi_transfer.py",
+				"/Applications/Sublime Text.app/Contents/MacOS/Packages/Color Scheme - Default.sublime-package/Monokai.tmTheme",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/decorator_assignment.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/thread_cv_exapmle.py",
 				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/Users/coffeephantom/Library/Rime/default.custom.yaml",
+				"/Users/coffeephantom/Library/Rime/.git/MERGE_MSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/fileio.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/closure_exmple.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214/.gitignore",
+				"/Users/coffeephantom/.ShadowsocksX/gfwlist.js",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/XML_for_All_Occasions/demo.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/XML_for_All_Occasions/pagemaker.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/Painting_a_Pretty_Picture/test.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/Painting_a_Pretty_Picture/sunspots_roto.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Python/Beginning_Python/Painting_a_Pretty_Picture/hello.pdf",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs370/ascii.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs370/output.txt",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs370/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs370/.gitignore",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/mysite/manage.py",
+				"/Users/coffeephantom/Documents/DevL/Python/Python_Challenge/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs409/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs408/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs408/.gitignore",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/mysite/mysite/views.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator/calculator/views.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator/calculator/urls.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator/calculator/settings.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/calculator/templates/calculator.html",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/mysite/mysite/settings.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs30/mysite/mysite/urls.py",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/flaskr.py",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/templates/layout.html",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/templates/login.html",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/templates/show_entries.html",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/.gitignore",
+				"/Users/coffeephantom/.git-credentials",
+				"/Users/coffeephantom/.gitconfig",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/upload_pic.py",
+				"/usr/local/lib/python2.7/site-packages/flask/helpers.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/templates/upload_pic.html",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/templates/show_pic.html",
+				"/usr/local/lib/python2.7/site-packages/werkzeug/utils.py",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/templates/hello_shiyanlou.html",
+				"/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs29/hello_shiyanlou.py",
+				"/Users/coffeephantom/Documents/Tools/netcheck.sh",
+				"/usr/local/lib/python2.7/site-packages/flask/wrappers.py",
+				"/usr/local/lib/python2.7/site-packages/werkzeug/local.py",
+				"/usr/local/lib/python2.7/site-packages/werkzeug/__init__.py",
+				"/usr/local/lib/python2.7/site-packages/flask/app.py",
+				"/usr/local/lib/python2.7/site-packages/flask/__init__.py",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/Python/flask_example/.gitignore",
+				"/Users/coffeephantom/Documents/Netease/iOS_eplay_new_ui/iOS_eplay/EPlay.bundle/en.lproj/Localizable.strings",
+				"/Users/coffeephantom/Documents/Netease/iOS_eplay_new_ui/iOS_eplay/EPlay.bundle/iOS_eplay/EPlay.bundle/en.lproj/Localizable.strings",
+				"/Users/coffeephantom/Documents/DevL/TestPlay/mysite/.git/COMMIT_EDITMSG",
+				"/Users/coffeephantom/Documents/DevL/TestPlay/mysite/.gitignore",
+				"/Users/coffeephantom/Documents/DevL/TestPlay/mysite/mysite/settings.py",
+				"/Users/coffeephantom/Documents/DevL/TestPlay/mysite/polls/models.py",
+				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/servers/robot/robotactioninstance.cpp",
+				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/include/logprotocol.h",
+				"/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc/gamecommon/db/dbnetworkmanager.cpp",
+				"/Users/coffeephantom/Documents/Git/SublimeUserSettings/.git/COMMIT_EDITMSG",
 				"/Users/coffeephantom/.zshrc",
+				"/Users/coffeephantom/.bashrc",
+				"/Users/coffeephantom/.bash_profile",
+				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
 				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 				"/Users/coffeephantom/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
@@ -233,7 +850,7 @@
 			],
 			"find":
 			{
-				"height": 27.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -247,6 +864,13 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"self.name",
+					"condition.acquire()",
+					"global_var_num",
+					"threading.Thread.get_name(self)",
+					"get_name",
+					"39",
+					"request",
 					"extra_path"
 				],
 				"highlight": true,
@@ -265,7 +889,7 @@
 			"folders":
 			[
 				{
-					"path": "/Users/coffeephantom/Documents/Netease/EplayServer/server/branch/branch_0.2.6322_UIDDev/cppsrc"
+					"path": "/Users/coffeephantom/Documents/DevL/Shiyanlou/shiyanlou_cs214"
 				}
 			],
 			"groups":
@@ -282,7 +906,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 38.0
 			},
 			"layout":
 			{
@@ -307,12 +931,16 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 126.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0 0 4 1280 773 0 0 1280 777 ",
+			"position": "0 0 70 1280 707 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
@@ -363,7 +991,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 2,
+			"window_id": 26,
 			"workspace_name": ""
 		}
 	],
